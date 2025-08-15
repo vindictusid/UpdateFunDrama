@@ -1,20 +1,16 @@
 {
-  "version_code": 2032,
-  "title_update": "Update Mod",
-  "title_made_by": "Update Mod",
-  "title_color": "#FF0000",
-  "description": [
-    "Peningkatan kinerja aplikasi",
-    "Fitur keamanan yang ditingkatkan",
-    "Memperbaiki bug pada aplikasi"
-  ],
-  "notes": [
-    "Latest performance improvements",
-    "Security enhancements overview",
-    "New UI design guide",
-    "Update FAQs and support"
-  ],
-  "telegram_link": "https://wa.me/6281260195523/",
-  "update_link": "https://heylink.me/Vindictus.id",
-  "dialog_exit_on_false": true
+  "showDialog": true,
+  "appVersionCode": 2031,
+  "messageText": "Oops! ⏰ This app has expired. Please update to the latest version.",
+  "updateButtonText": "Update",
+  "updateButtonLink": "https://whatsapp.com/channel/0029Vb6NY4v7NoZs4ADHnm0m",
+  "updateButtonGradientStartColor": "#1E88E5",
+  "updateButtonGradientEndColor": "#64B5F6",
+  "cancelButtonText": "Cancel",
+  "cancelClosesApp": true,
+  "cancelButtonGradientStartColor": "#1E88E5",
+  "cancelButtonGradientEndColor": "#64B5F6",
+  "textGradientStartColor": "#1E88E5",
+  "textGradientEndColor": "#64B5F6",
+  "dialogBackgroundColor": "#FFFFFF"
 }
